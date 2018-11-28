@@ -14,4 +14,8 @@
 *.opendb
 *.log
 *.suo
+*.opensdf
+*.ipdb
+*.iobj
+*.ilk
 /Login/allexamples
